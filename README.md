@@ -4,6 +4,7 @@ For more of my projects, check out:
 
 - [fourtonfish.com/projects](https://fourtonfish.com/projects/)
 - [glitch.com/@stefan](https://glitch.com/@stefan)
+- [kaggle.com/fourtonfish](https://www.kaggle.com/fourtonfish)
 
 You can reach me [via email](mailto:stefan@fourtonfish.com) or [on Twitter](https://twitter.com/fourtonfish).
 
