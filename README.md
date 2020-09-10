@@ -9,7 +9,7 @@ For more of my projects, check out:
 You can reach me [via email](mailto:stefan@fourtonfish.com) or [on Twitter](https://twitter.com/fourtonfish).
 
 [![It's a race!](https://fourtonfish.com/wp-content/uploads/2019/11/curl-race.gif)](https://fourtonfish.com/project/node-web-console/)
-
+<hr/>
 <a href="https://fightfascism.glitch.me/">
   <img align="left" alt="Fight Fascism" title="Fight fascism! Design by Angus Johnston" src="https://fourtonfish.com/wp-content/themes/fourtonfish/images/other/fight-fascism-block.jpg">
 </a>
