@@ -17,5 +17,5 @@ You can reach me [via email](mailto:stefan@fourtonfish.com) or [on Twitter](http
   <img align="left" alt="Black Lives Matter" title="Black Lives Matter logo" src="https://fourtonfish.com/wp-content/uploads/2020/09/black-lives-matter-140px.png">
 </a>
 <a href="https://indieweb.org/">
-  <img align="left" alt="IndieWeb" title="Support #indieweb!" src="https://fourtonfish.com/wp-content/uploads/2020/09/indiewebcamp-140px.png">
+  <img align="left" alt="IndieWeb" title="Support #indieweb!" src="https://fourtonfish.com/wp-content/themes/fourtonfish/images/other/indiewebcamp-black.png">
 </a>
