@@ -4,6 +4,7 @@ For more of my projects, check out:
 
 - [fourtonfish.com/projects](https://fourtonfish.com/projects/)
 - [glitch.com/@stefan](https://glitch.com/@stefan)
+- [public.tableau.com/profile/stefanbohacek](https://public.tableau.com/profile/stefanbohacek#!/)
 - [kaggle.com/fourtonfish](https://www.kaggle.com/fourtonfish)
 - [soundcloud.com/stefan-bohacek](https://soundcloud.com/stefan-bohacek)
 
