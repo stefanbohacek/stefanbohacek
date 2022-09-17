@@ -20,5 +20,5 @@ You can reach me [via email](mailto:stefan@stefanbohacek.com) or [on Twitter](ht
   <img align="left" alt="Black Lives Matter" title="Black Lives Matter logo" src="https://stefanbohacek.com/wp-content/uploads/2020/09/black-lives-matter-140px.png">
 </a>
 <a href="https://indieweb.org/">
-  <img align="left" alt="IndieWeb" title="Support #indieweb!" src="https://stefanbohacek.com/wp-content/themes/stefanbohacek/images/other/indiewebcamp-black.png">
+  <img align="left" alt="IndieWeb" title="Support #indieweb!" src="https://stefanbohacek.com/wp-content/themes/fourtonfish/images/other/indiewebcamp-black.png">
 </a>
