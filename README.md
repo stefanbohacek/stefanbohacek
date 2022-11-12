@@ -9,7 +9,7 @@ For more of my projects, check out:
 - [kaggle.com/fourtonfish](https://www.kaggle.com/fourtonfish)
 - [soundcloud.com/stefanbohacek](https://soundcloud.com/stefanbohacek)
 
-You can reach me [via email](mailto:stefan@stefanbohacek.com) or [on Twitter](https://twitter.com/stefanbohacek).
+You can reach me [via email](mailto:stefan@stefanbohacek.com), Mastodon[https://stefanbohacek.online/@stefan], or [on Twitter](https://twitter.com/stefanbohacek).
 
 [![It's a race!](https://stefanbohacek.com/wp-content/uploads/2019/11/curl-race.gif)](https://stefanbohacek.com/project/node-web-console/)
 <hr/>
