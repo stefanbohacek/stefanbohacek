@@ -2,14 +2,14 @@
 
 For more of my projects, check out:
 
-- [stefanbohacek.com/projects](https://stefanbohacek.com/projects/)
-  - [stefanbohacek.com/dataviz](https://stefanbohacek.com/dataviz/)
-- [glitch.com/@stefan](https://glitch.com/@stefan)
-- [public.tableau.com/profile/stefanbohacek](https://public.tableau.com/profile/stefanbohacek#!/)
-- [kaggle.com/fourtonfish](https://www.kaggle.com/fourtonfish)
-- [soundcloud.com/stefanbohacek](https://soundcloud.com/stefanbohacek)
+- <a rel="me" href="https://stefanbohacek.com/projects/">stefanbohacek.com/projects</a>
+  - <a rel="me" href="https://stefanbohacek.com/dataviz/">stefanbohacek.com/dataviz</a>
+- <a rel="me" href="https://glitch.com/@stefan">glitch.com/@stefan</a>
+- <a rel="me" href="https://public.tableau.com/profile/stefanbohacek#!/">public.tableau.com/profile/stefanbohacek</a>
+- <a rel="me" href="https://www.kaggle.com/fourtonfish">kaggle.com/fourtonfish</a>
+- <a rel="me" href="https://soundcloud.com/stefanbohacek">soundcloud.com/stefanbohacek</a>
 
-You can reach me [via email](mailto:stefan@stefanbohacek.com), [Mastodon](https://stefanbohacek.online/@stefan), or [on Twitter](https://twitter.com/stefanbohacek).
+You can reach me <a rel="me" href="mailto:stefan@stefanbohacek.com">via email</a>, <a rel="me" href="https://stefanbohacek.online/@stefan">Mastodon</a>, or <a rel="me" href="https://twitter.com/stefanbohacek">on Twitter</a>.
 
 [![It's a race!](https://stefanbohacek.com/wp-content/uploads/2019/11/curl-race.gif)](https://stefanbohacek.com/project/node-web-console/)
 <hr/>
