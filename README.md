@@ -3,7 +3,6 @@
 For more of my projects, check out:
 
 - <a rel="me" href="https://stefanbohacek.com/projects/">stefanbohacek.com/projects</a>
-  - <a rel="me" href="https://stefanbohacek.com/dataviz/">stefanbohacek.com/dataviz</a>
 - <a rel="me" href="https://glitch.com/@stefan">glitch.com/@stefan</a>
 - <a rel="me" href="https://public.tableau.com/profile/stefanbohacek#!/">public.tableau.com/profile/stefanbohacek</a>
 - <a rel="me" href="https://www.kaggle.com/fourtonfish">kaggle.com/fourtonfish</a>
