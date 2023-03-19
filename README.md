@@ -8,7 +8,7 @@ For more of my projects, check out:
 - <a rel="me" href="https://www.kaggle.com/fourtonfish">kaggle.com/fourtonfish</a>
 - <a rel="me" href="https://soundcloud.com/stefanbohacek">soundcloud.com/stefanbohacek</a>
 
-You can reach me <a rel="me" href="mailto:stefan@stefanbohacek.com">via email</a>, <a rel="me" href="https://stefanbohacek.online/@stefan">Mastodon</a>, or <a rel="me" href="https://twitter.com/stefanbohacek">on Twitter</a>.
+Here's [how to get in touch](https://stefanbohacek.com/contact/).
 
 [![It's a race!](https://stefanbohacek.com/wp-content/uploads/2019/11/curl-race.gif)](https://stefanbohacek.com/project/node-web-console/)
 <hr/>
