@@ -10,7 +10,7 @@ For more of my projects, check out:
 
 Here's [how to get in touch](https://stefanbohacek.com/contact/).
 
-[![It's a race!](https://stefanbohacek.com/wp-content/uploads/2019/11/curl-race.gif)](https://stefanbohacek.com/project/node-web-console/)
+[![An animated GIF showing three emoji vehicles (a bicycle, a bus, and a truck) racing inside a terminal window, with the bus easily winning the race!](https://stefanbohacek.com/wp-content/uploads/2019/11/curl-race.gif)](https://stefanbohacek.com/project/node-web-console/)
 <hr/>
 <a href="https://fightfascism.glitch.me/">
   <img align="left" alt="Fight Fascism" title="Fight fascism! Design by Angus Johnston" src="https://stefanbohacek.com/wp-content/uploads/2020/09/fight-fascism-140px.png">
