@@ -6,7 +6,7 @@ For more of my projects, check out:
 - <a rel="me" href="https://glitch.com/@stefan">glitch.com/@stefan</a>
 - <a rel="me" href="https://public.tableau.com/profile/stefanbohacek#!/">public.tableau.com/profile/stefanbohacek</a>
 - <a rel="me" href="https://www.kaggle.com/fourtonfish">kaggle.com/fourtonfish</a>
-- <a rel="me" href="https://soundcloud.com/stefanbohacek">soundcloud.com/stefanbohacek</a>
+- <a rel="me" href="https://music.stefanbohacek.com">music.stefanbohacek.com</a>
 
 Here's [how to get in touch](https://stefanbohacek.com/contact/).
 
