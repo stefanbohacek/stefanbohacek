@@ -5,7 +5,7 @@
   <p><a href="https://www.rollingstone.com/culture/culture-commentary/internet-future-about-to-get-weird-1234938403/"><em>The Internet Is About to Get Weird Again</em></a> — December 2023, Rolling Stone</p>
 </blockquote>
 
-For more of my projects, visit:
+For more of my work, visit:
 
 - <a rel="me" href="https://stefanbohacek.com/projects/">stefanbohacek.com/projects</a>
 - <a rel="me" href="https://stefanbohacek.com/press/">stefanbohacek.com/press</a>
