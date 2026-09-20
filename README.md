@@ -2,7 +2,7 @@
 
 <blockquote>
   <p>Stefan Bohacek has been working for years to enable almost anyone to create simple, automated bots, offering up everything from a constantly-updated view of the weather at the South Pole to one that posts excerpts from the City of New York’s archives of civic data (here’s a map of every Latin cultural organization in the city!) to ones that post obscure and delightful images from the collections of museums around the world.</p>
-  <p><a href="https://www.rollingstone.com/culture/culture-commentary/internet-future-about-to-get-weird-1234938403/"><em>The Internet Is About to Get Weird Again</em>></a> — December 2023, Rolling Stone</p>
+  <p><a href="https://www.rollingstone.com/culture/culture-commentary/internet-future-about-to-get-weird-1234938403/"><em>The Internet Is About to Get Weird Again</em></a> — December 2023, Rolling Stone</p>
 </blockquote>
 
 For more of my projects, visit:
