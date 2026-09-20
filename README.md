@@ -14,7 +14,7 @@ For more of my projects, visit:
 
 Here's [how to get in touch](https://stefanbohacek.com/contact/).
 <hr/>
-<a href="https://fightfascism.glitch.me/">
+<a href="https://fightfascism.neocities.org/">
   <img align="left" alt="Fight Fascism" title="Fight fascism! Design by Angus Johnston" src="https://stefanbohacek.com/wp-content/themes/fourtonfish/images/other/fight-fascism-80px.png">
 </a>
 <a href="https://blacklivesmatter.com/">
