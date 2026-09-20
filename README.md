@@ -8,6 +8,7 @@
 For more of my projects, visit:
 
 - <a rel="me" href="https://stefanbohacek.com/projects/">stefanbohacek.com/projects</a>
+- <a rel="me" href="https://stefanbohacek.com/press/">stefanbohacek.com/press</a>
 - <a rel="me" href="https://public.tableau.com/profile/stefanbohacek#!/">public.tableau.com/profile/stefanbohacek</a>
 - <a rel="me" href="https://www.kaggle.com/fourtonfish">kaggle.com/fourtonfish</a>
 - <a rel="me" href="https://music.stefanbohacek.com">music.stefanbohacek.com</a>
